@@ -5,6 +5,12 @@ second file,line 4
 second file,line 5
 second file,line 6
 git_1 branch,line 7
+second file,line 2 
+modified,line 3
+second file,line 4
+second file,line 5
+second file,line 6
+modified,line 7
 second file,line 8
 second file,line 9
 second file,line 10
