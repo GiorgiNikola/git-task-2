@@ -8,3 +8,7 @@ seven 7
 edited 8
 edited 9
 line 10
+line 8
+line 9
+edited 10
+888d332 (change line 10)
